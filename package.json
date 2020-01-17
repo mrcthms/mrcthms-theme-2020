@@ -1,0 +1,22 @@
+{
+    "name": "mrcthms-2020",
+    "displayName": "mrcthms-2020",
+    "description": "Personal theme for 2020",
+    "publisher": "mrcthms",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MRCTHMS 2020",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MRCTHMS 2020-color-theme.json"
+            }
+        ]
+    }
+}
